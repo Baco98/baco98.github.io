@@ -48,5 +48,7 @@
     border-bottom-right-radius: 10px;
 }
 
-
+body {
+    overflow-x: hidden;
+}
 
